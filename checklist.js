@@ -32,3 +32,17 @@ function myAnotherFunction(){
 // ৪. Cookies কি জিনিস। এইটা দিয়ে কি করা হয়। সেটা ইংরেজিতে ৫ থেকে ৭ লাইনের মধ্যে লিখে ফেলো। 
 
 cookies is an amount of information that persist between a server side and a client side. A web browser stores this information at them of browsing. cookies are data stores in small text file on computer. When a web server has sent a web page to a browser the connection is shut down and the server forgets everything about the user. 
+
+// ৫. local storage আর session storage এর মধ্যে তিনটা পার্থক্য লিখে ফেলো। ইংরেজিতে। (নিজের মতো করে লিখবে )
+
+localstorage : 1 . it is not session base . need to deleted via javascript by using clear method of local storage.
+2. only client side reading support 
+3. less order browser support
+
+sessionStorage: 1. it is session base. working per session.
+2. only client side reading support 
+3. less order browser support
+
+// ৬. জাভাস্ক্রিপ্ট এর কোড কিভাবে ব্রাউজারের মধ্যে রান করে। দরকার হলে গুগল বা ইউটিউবে সার্চ দিয়ে একটু ভালো করে দেখে রাখো। 
+
+// ৭. জাভাস্ক্রিপ্ট এর কোন কোন জিনিস সেটার একটা লিষ্ট গুগলে সার্চ দিয়ে বের করে ফেলো। এবং এই asynchronous বলতে কি বুঝায় সেটাও দেখে রাখো। 
