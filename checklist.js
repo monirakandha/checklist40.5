@@ -27,3 +27,8 @@ function myAnotherFunction(){
         console.log('Get out');
     }
 }
+
+
+// ৪. Cookies কি জিনিস। এইটা দিয়ে কি করা হয়। সেটা ইংরেজিতে ৫ থেকে ৭ লাইনের মধ্যে লিখে ফেলো। 
+
+cookies is an amount of information that persist between a server side and a client side. A web browser stores this information at them of browsing. cookies are data stores in small text file on computer. When a web server has sent a web page to a browser the connection is shut down and the server forgets everything about the user. 
